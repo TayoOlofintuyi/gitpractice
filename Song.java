@@ -1,4 +1,4 @@
-public interface Song {
+public abstract class Song {
     public void printSongName();
 
     public void printArtist();

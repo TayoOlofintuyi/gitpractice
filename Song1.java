@@ -1,4 +1,4 @@
-public class Song1 implements Song
+public class Song1 extends Song
 {
     
 }
