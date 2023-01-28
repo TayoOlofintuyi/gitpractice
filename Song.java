@@ -1,9 +1,9 @@
 public abstract class Song {
-    public void printSongName();
+    public abstract void printSongName();
 
-    public void printArtist();
+    public abstract void printArtist();
 
-    public void printAlbum();
+    public abstract void printAlbum();
 
-    public void printLyrics();
+    public abstract void printLyrics();
 }
